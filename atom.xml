@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CaptainNick</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://captainnick.github.io/"/>
+  <updated>2019-06-05T11:07:24.512Z</updated>
+  <id>http://captainnick.github.io/</id>
+  
+  <author>
+    <name>CaptainNick</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Outreachy 101 - Summer Internship 2019</title>
+    <link href="http://captainnick.github.io/2019/06/01/Outreachy-101-Summer-Internship-2019/"/>
+    <id>http://captainnick.github.io/2019/06/01/Outreachy-101-Summer-Internship-2019/</id>
+    <published>2019-06-01T08:36:35.000Z</published>
+    <updated>2019-06-05T11:07:24.512Z</updated>
+    
+    <summary type="html">
+    
+      The first blog for Outreachy Internship with procedure of my application.
+    
+    </summary>
+    
+    
+      <category term="Outreachy" scheme="http://captainnick.github.io/tags/Outreachy/"/>
+    
+      <category term="Outreachy2019" scheme="http://captainnick.github.io/tags/Outreachy2019/"/>
+    
+      <category term="FSAC" scheme="http://captainnick.github.io/tags/FSAC/"/>
+    
+      <category term="Fsharp" scheme="http://captainnick.github.io/tags/Fsharp/"/>
+    
+  </entry>
+  
+</feed>
