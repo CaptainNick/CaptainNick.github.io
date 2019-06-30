@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://captainnick.github.io/"/>
-  <updated>2019-06-15T13:44:31.932Z</updated>
+  <updated>2019-06-30T18:30:46.144Z</updated>
   <id>http://captainnick.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FsAutoComplete : My Outreachy Project</title>
+    <link href="http://captainnick.github.io/2019/06/25/FsAutoComplete-My-Outreachy-Project/"/>
+    <id>http://captainnick.github.io/2019/06/25/FsAutoComplete-My-Outreachy-Project/</id>
+    <published>2019-06-25T17:17:54.000Z</published>
+    <updated>2019-06-30T18:30:46.144Z</updated>
+    
+    <summary type="html">
+    
+      Explanation about my Outreachy project and the F# community.
+    
+    </summary>
+    
+    
+      <category term="Outreachy" scheme="http://captainnick.github.io/tags/Outreachy/"/>
+    
+      <category term="Outreachy2019" scheme="http://captainnick.github.io/tags/Outreachy2019/"/>
+    
+      <category term="FSAC" scheme="http://captainnick.github.io/tags/FSAC/"/>
+    
+      <category term="Fsharp" scheme="http://captainnick.github.io/tags/Fsharp/"/>
+    
+  </entry>
   
   <entry>
     <title>Everybody struggles! It&#39;s okay to get stuck.</title>
