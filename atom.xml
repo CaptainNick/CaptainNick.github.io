@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://captainnick.github.io/"/>
-  <updated>2019-07-18T18:26:23.404Z</updated>
+  <updated>2020-01-23T09:05:14.414Z</updated>
   <id>http://captainnick.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Outreachy Final Report</title>
+    <link href="http://captainnick.github.io/2019/08/20/Outreachy-Final-Report/"/>
+    <id>http://captainnick.github.io/2019/08/20/Outreachy-Final-Report/</id>
+    <published>2019-08-20T16:25:17.000Z</published>
+    <updated>2020-01-23T09:05:14.414Z</updated>
+    
+    <summary type="html">
+    
+      This blog is my final report on the FSAC project under my Outreachy internship.
+    
+    </summary>
+    
+    
+      <category term="Outreachy" scheme="http://captainnick.github.io/tags/Outreachy/"/>
+    
+      <category term="Outreachy2019" scheme="http://captainnick.github.io/tags/Outreachy2019/"/>
+    
+      <category term="FSAC" scheme="http://captainnick.github.io/tags/FSAC/"/>
+    
+      <category term="Fsharp" scheme="http://captainnick.github.io/tags/Fsharp/"/>
+    
+  </entry>
   
   <entry>
     <title>Outreachy Mid-point Progress Report</title>
