@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://captainnick.github.io/"/>
-  <updated>2020-01-23T09:05:14.414Z</updated>
+  <updated>2020-03-25T16:29:46.683Z</updated>
   <id>http://captainnick.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NULLCON 2020 Winja CTF Write-up</title>
+    <link href="http://captainnick.github.io/2020/03/25/NULLCON-2020-Winja-CTF-Write-up/"/>
+    <id>http://captainnick.github.io/2020/03/25/NULLCON-2020-Winja-CTF-Write-up/</id>
+    <published>2020-03-25T08:55:46.000Z</published>
+    <updated>2020-03-25T16:29:46.683Z</updated>
+    
+    <summary type="html">
+    
+      Write-up for Winja CTF challenges held at NULLCON Goa 2020.
+    
+    </summary>
+    
+    
+      <category term="CTF" scheme="http://captainnick.github.io/tags/CTF/"/>
+    
+      <category term="Hacking" scheme="http://captainnick.github.io/tags/Hacking/"/>
+    
+      <category term="WebSecurity" scheme="http://captainnick.github.io/tags/WebSecurity/"/>
+    
+      <category term="Nullcon" scheme="http://captainnick.github.io/tags/Nullcon/"/>
+    
+  </entry>
   
   <entry>
     <title>Outreachy Final Report</title>
